@@ -1,0 +1,27 @@
+<CurrentWeather xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<latitude>51.5</latitude>
+	<longitude>0.05</longitude>
+	<altitude_m>5</altitude_m>
+	<altitude_ft>16.4</altitude_ft>
+	<weather_description>Cloudy</weather_description>
+	<weather_code>3</weather_code>
+	<weather_icon>Overcast.gif</weather_icon>
+	<temperature_c>9</temperature_c>
+	<temperature_f>48.2</temperature_f>
+	<feels_like_temperature_c>6.23</feels_like_temperature_c>
+	<feels_like_temperature_f>43.22</feels_like_temperature_f>
+	<humidity>76</humidity>
+	<wind_speed_mph>11.81</wind_speed_mph>
+	<wind_speed_kmh>19</wind_speed_kmh>
+	<wind_speed_kts>10.26</wind_speed_kts>
+	<wind_speed_ms>5.28</wind_speed_ms>
+	<wind_direction_deg>220</wind_direction_deg>
+	<wind_direction_com>SW</wind_direction_com>
+	<cloud_percentage>100</cloud_percentage>
+	<visibility_km>10</visibility_km>
+	<visibility_mi>6.21</visibility_mi>
+	<air_pressure_mb>1016.9</air_pressure_mb>
+	<air_pressure_in>30.11</air_pressure_in>
+	<dew_point_c>5.01</dew_point_c>
+	<dew_point_f>41.03</dew_point_f>
+</CurrentWeather>
