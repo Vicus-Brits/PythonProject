@@ -1,0 +1,29 @@
+Your mission, should you wish to accept: 
+
+IN NO SPECIFIC ORDER: 
+
+Create an API accoount at https://developer.weatherunlocked.com/signup  in order to get temperaturesbased on GEO locations
+	Call that API (JSON or XML), (both at some point..) and get the current temperature in celcius and fharenheit.
+
+Create a web front end where you can select Johannesburg or Pretoria and pass the GEO location to the weather API
+	Info:  Geo locations
+	Johannesburg 	-26.2041,28.0473
+	Pretoria 	-25.7313,28.2184
+	The Geo location must be read from a CSV file. 
+Get the temperature from the API, store it in a SQLite database, read it from the SQLite database and return the values to the front end. 
+
+Build a function in Python to convert celcius to fahrenheit.
+Call your function with the Celcius from weatherunlocked and check if their fahrenheit calculation is correct, return the result of the check to the front end.
+
+Create your own API using Python to convert celcius to fahrenheit.
+Call your API with the Celcius from weatherunlocked and check if their fahrenheit calculation is correct, return the result of the check to the front end.
+
+Implement some form of access control to your application using Auth 0 /Zero 
+
+Get you website pretty, use this https://tutorialzine.com/2015/07/freebie-7-clean-and-responsive-forms
+You can probably use form-login.css and form-login.html, delete the google and othe logins, keep it simple. 
+
+
+
+
+
